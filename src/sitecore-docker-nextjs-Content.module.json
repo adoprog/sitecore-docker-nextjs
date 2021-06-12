@@ -1,0 +1,16 @@
+{
+    "namespace": "sitecore-docker-nextjs-Content",
+    "references": [ "sitecore-docker-nextjs" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/sitecore-docker-nextjs"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/sitecore-docker-nextjs"
+            }
+        ]
+    }
+}
