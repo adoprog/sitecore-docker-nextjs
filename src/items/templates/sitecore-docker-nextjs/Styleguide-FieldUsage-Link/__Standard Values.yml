@@ -1,0 +1,31 @@
+﻿---
+ID: "12bea2da-2f8b-5376-926c-1aa592a3fa44"
+Parent: "21752e66-897c-5fac-9002-9d339d274b86"
+Template: "21752e66-897c-5fac-9002-9d339d274b86"
+Path: "/sitecore/templates/Project/sitecore-docker-nextjs/Styleguide-FieldUsage-Link/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39194215-a332-492b-8d20-a38d2b98298d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013426Z

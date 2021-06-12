@@ -1,0 +1,49 @@
+﻿---
+ID: "6d318477-d1fb-55fe-ae5e-9b0070ea6221"
+Parent: "37661529-061d-5f4c-a42c-d60856ee4428"
+Template: "21752e66-897c-5fac-9002-9d339d274b86"
+Path: "/sitecore/content/sitecore-docker-nextjs/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00e346f1-704a-56a0-ba74-d2d30fd1f098"
+      Hint: externalLink
+      Value: |
+        <link text="Link to Sitecore" url="https://www.sitecore.com" linktype="external" />
+    - ID: "09fef0e9-e785-5792-9607-0168f1935096"
+      Hint: paramsLink
+      Value: |
+        <link target="_blank" text="Sitecore Dev Site" title="&lt;a&gt; title attribute" url="https://dev.sitecore.net" class="font-weight-bold" linktype="external" />
+    - ID: "2200959f-c2b6-5cf2-9ace-705ad83b2553"
+      Hint: emailLink
+      Value: |
+        <link text="Send an Email" url="mailto:foo@bar.com" linktype="mailto" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013437Z
+    - ID: "3cfd0c4a-dd38-514f-9dae-6d9d49dc719e"
+      Hint: heading
+      Value: General Link
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a201ef7-9eaa-4b44-9d85-041077a665ec"
+    - ID: "aa71ec07-3e1e-5720-b514-3bbf7139e640"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013437Z
+    - ID: "da2892f8-67e6-591b-9587-7a63719e54e8"
+      Hint: internalLink
+      Value: |
+        <link linktype="internal" id="{0374533A-4B52-55F0-8836-6265ACFC25B6}" />

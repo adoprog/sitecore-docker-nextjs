@@ -1,0 +1,30 @@
+﻿---
+ID: "8bd2d68a-6fb8-5b3e-8607-38546c662c4e"
+Parent: "f788865d-20b1-59c7-9a18-d838a893d617"
+Template: "4da9ae9f-3264-5eaa-a42c-049d6ea61f52"
+Path: "/sitecore/content/sitecore-docker-nextjs/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095/styleguide-jss-styleguide-section-B75151F05CFDC4CAFFE44E5BAED9D59BEA82565EC11CE75B7DEF3634495EC1DAB7"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10-item-0"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013437Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9021855d-ba37-4e08-b256-8d05f437845f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013437Z
+    - ID: "ff436da1-0ed4-5173-b5de-b1c6345f1c9d"
+      Hint: textField
+      Value: Referenced item textField

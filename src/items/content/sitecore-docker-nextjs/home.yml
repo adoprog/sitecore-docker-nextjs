@@ -1,0 +1,43 @@
+﻿---
+ID: "0374533a-4b52-55f0-8836-6265acfc25b6"
+Parent: "b5ffa518-5a87-5747-82cd-f4783b2255f5"
+Template: "2af2298a-430e-5750-a655-b6cc84db9fdf"
+Path: "/sitecore/content/sitecore-docker-nextjs/home"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2C4A53CC-9DA8-5F51-9D79-6EE2FC671B2D}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{90229C2E-58F6-548F-B482-9F2CD50E4150}"
+              s:id="{C1A8D77C-54F9-53BA-BAEC-0FFB78422767}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013434Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d7520c3-2945-4726-822c-a7ebd752eb01"
+    - ID: "ac5c2a22-24d3-5ecf-a1dd-b1de2738939e"
+      Hint: pageTitle
+      Value: Welcome to Sitecore JSS
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013435Z

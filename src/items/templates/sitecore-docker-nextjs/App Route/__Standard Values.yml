@@ -1,0 +1,72 @@
+﻿---
+ID: "6a599e0c-5e63-51b0-bdec-1ab9519f418c"
+Parent: "2af2298a-430e-5750-a655-b6cc84db9fdf"
+Template: "2af2298a-430e-5750-a655-b6cc84db9fdf"
+Path: "/sitecore/templates/Project/sitecore-docker-nextjs/App Route/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{2AF2298A-430E-5750-A655-B6CC84DB9FDF}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5A8C6259-AF0E-5FBF-B0FF-48225C635044}">
+        <p
+          uid="{CB94E06A-B384-5678-A2CF-EA4CD803C87A}"
+          key="jss-main"
+          md="{DA67CC90-FA9C-5CCA-90CD-B4A685E7F54F}" />
+        <p
+          uid="{BC87398B-FADC-53A2-BC35-048D93F6D51E}"
+          key="jss-tabs"
+          md="{45FF4CEC-4F85-5CEA-B462-68FE46F84131}" />
+        <p
+          uid="{F794D8B7-109D-50FF-A473-D0F5B9B3D8E3}"
+          key="jss-graphql-layout"
+          md="{61A26909-19D7-56EA-977D-6239698E1369}" />
+        <p
+          uid="{20B2D298-D1EE-5BF9-B4F7-8944674E56C4}"
+          key="jss-styleguide-layout"
+          md="{C38C75DD-7FDB-5FC7-96AD-DD5F3A6D8764}" />
+        <p
+          uid="{819D8594-A269-5FEF-899C-6B423FCED853}"
+          key="jss-styleguide-section"
+          md="{237AC605-78C0-516E-9F0B-F630728DD4FF}" />
+        <p
+          uid="{47C563D3-5FE6-5CB5-BE4D-826FDD420A6B}"
+          key="jss-header"
+          md="{F6691387-A794-51F1-A8B2-5E59C366BDFC}" />
+        <p
+          uid="{AF2113BD-38D6-5B49-BBC2-40959243C46D}"
+          key="jss-reuse-example"
+          md="{5F640732-7CE1-5D5A-B1E2-E31D00A893C4}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013421Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68a9c851-a769-4018-b9e3-fcb1bd26ca2c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013434Z

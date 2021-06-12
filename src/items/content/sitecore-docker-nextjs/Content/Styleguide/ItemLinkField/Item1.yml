@@ -1,0 +1,30 @@
+﻿---
+ID: "d8adf51c-d99a-5dc9-95e2-f79cbea37783"
+Parent: "f5087aa6-814e-5767-96b6-27c5119f297c"
+Template: "4da9ae9f-3264-5eaa-a42c-049d6ea61f52"
+Path: "/sitecore/content/sitecore-docker-nextjs/Content/Styleguide/ItemLinkField/Item1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Item Link Item 1 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013434Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff814274-4ae0-4799-b16c-b48c852a7271"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013434Z
+    - ID: "ff436da1-0ed4-5173-b5de-b1c6345f1c9d"
+      Hint: textField
+      Value: ItemLink Demo (Shared) Item 1 Text Field

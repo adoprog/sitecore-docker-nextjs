@@ -1,0 +1,35 @@
+﻿---
+ID: "5a8c6259-af0e-5fbf-b0ff-48225c635044"
+Parent: "03433121-fe56-53fd-9907-112fc18e3fa8"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: "/sitecore/layout/Layouts/Project/sitecore-docker-nextjs/sitecore-docker-nextjs Layout"
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Value: "{DA67CC90-FA9C-5CCA-90CD-B4A685E7F54F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013434Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2987dc3-78e9-49ee-8bb5-f6db233ce9be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013434Z

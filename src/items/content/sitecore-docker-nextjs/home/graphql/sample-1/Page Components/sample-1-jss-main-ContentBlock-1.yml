@@ -1,0 +1,35 @@
+﻿---
+ID: "9c30e1ae-1d17-530f-bc26-d1b555a04041"
+Parent: "b9c3936c-7772-5583-b1dd-620d36aee959"
+Template: "e5856532-0cee-5206-902e-ae431aa98206"
+Path: "/sitecore/content/sitecore-docker-nextjs/home/graphql/sample-1/Page Components/sample-1-jss-main-ContentBlock-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210612T013435Z
+    - ID: "505cc3eb-5525-5dd6-b308-8301edbda552"
+      Hint: heading
+      Value: GraphQL Sample 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18381674-ac0e-4bf2-a84a-020696ebc48f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c019ec6d-3f8f-51f1-9591-948890f658c1"
+      Hint: content
+      Value: |
+        <p>A child route here to illustrate the power of GraphQL queries. <a href="/graphql">Back to GraphQL route</a></p>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210612T013435Z
