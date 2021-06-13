@@ -30,6 +30,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
+    "@jsonstorage/personalize-react": "0.0.3",
     "@sitecore-jss/sitecore-jss-nextjs": "^16.0.0",
     "@sitecore-jss/sitecore-jss-tracking": "^16.0.0",
     "apollo-cache-inmemory": "~1.6.3",
